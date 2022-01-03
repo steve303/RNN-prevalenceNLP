@@ -1,6 +1,5 @@
 ### RNN Language Model in NLP Tasks
-CS410 Tech Review Paper</br>
-Steven Su/steven36</br>
+Steven Su
 November 15, 2020
 </br>
 </br>
